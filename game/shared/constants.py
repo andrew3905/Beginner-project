@@ -1,0 +1,1 @@
+# Shared values everyone agrees on (max HP, etc.)

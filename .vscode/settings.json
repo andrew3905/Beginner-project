@@ -1,0 +1,9 @@
+{
+    // Uses whatever Python is installed on each person's machine
+    "python.defaultInterpreterPath": "python",
+
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    }
+}

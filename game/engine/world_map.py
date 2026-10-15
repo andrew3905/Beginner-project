@@ -1,0 +1,1 @@
+# Rooms, exits, connections between areas

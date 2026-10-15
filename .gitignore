@@ -1,0 +1,19 @@
+# Python bytecode cache (auto-generated, different on every machine)
+__pycache__/
+*.pyc
+
+# Virtual environments — each person creates their own
+.venv/
+venv/
+
+# Test cache
+.pytest_cache/
+
+# VS Code personal stuff (keep settings.json and launch.json though!)
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# OS junk
+.DS_Store
+Thumbs.db

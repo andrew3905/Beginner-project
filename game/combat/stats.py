@@ -1,0 +1,1 @@
+# HP, attack, defense, damage formulas

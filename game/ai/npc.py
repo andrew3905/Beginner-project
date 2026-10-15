@@ -1,0 +1,1 @@
+# Friendly NPCs the player can talk to
